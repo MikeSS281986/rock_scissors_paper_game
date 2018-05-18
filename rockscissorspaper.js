@@ -117,4 +117,4 @@ function playGame() {
   playAgain(); // run playGame function for player choice to play game again or not.
 }
 
-playGame(); //main function that kicks off loop to run gameflow logic as well keep track times played.
+//playGame(); //main function that kicks off loop to run gameflow logic as well keep track times played.
